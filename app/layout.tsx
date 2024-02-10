@@ -6,8 +6,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "React Context Example",
-  description: "Simple example of React Context with Next.js",
+  title: "Redux Example",
+  description: "Simple example of Redux and React Context with Next.js",
 };
 
 export default function RootLayout({
